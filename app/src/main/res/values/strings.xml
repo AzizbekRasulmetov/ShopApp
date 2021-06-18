@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Dostavka</string>
+    <string name="restaurant">Рестораны</string>
+    <string name="market">Маркет</string>
+    <string name="free_delivery">Бесплатная доставка</string>
+    <string name="new_product">Новинки</string>
+    <string name="products">Продукты</string>
+    <string name="vegan">Веган</string>
+    <string name="national_food">Национальные блюда</string>
+    <string name="ice_cream">Пломбир (шоколадный c кокосом)</string>
+
+    <!--Menu-->
+    <string name="main_fragment">Main</string>
+    <string name="search_fragment">Search</string>
+    <string name="shopping_fragment">My Shopping</string>
+    <string name="account_fragment">Account</string>
+
+
+    <!--Locations-->
+    <string-array name="locations">
+        <item>Ташкент</item>
+        <item>Чирчик</item>
+        <item>Кибрай</item>
+        <item>Олмалык</item>
+    </string-array>
+
+</resources>
